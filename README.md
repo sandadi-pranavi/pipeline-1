@@ -14,4 +14,6 @@ OUTPUT-TASK-3:
 II. ![Screenshot 2025-04-05 215310](https://github.com/user-attachments/assets/0b4ff3ca-3594-4e93-a040-511d03f10a61)
 III. ![Screenshot 2025-04-05 215346](https://github.com/user-attachments/assets/71fcb7d4-b9e0-48a9-b6b3-d29e7e09666f)
 OUTPUT-TASK-4:
+I.  ![Screenshot 2025-04-05 220525](https://github.com/user-attachments/assets/88a9b781-8994-4c2a-96ba-5798f55aeee3)
+II. ![image](https://github.com/user-attachments/assets/8b8a35ff-f5df-4f4a-9992-63b6f9170826)
 
